@@ -1,6 +1,0 @@
-,Feature Set,Training Accuracy,Testing Accuracy,Recall,Precision,Features
-0,All Features,0.7468944099378882,0.7333333333333333,0.6905444126074498,0.7901639344262295,"['ten_day_mean', 'ten_day_min', 'ten_day_swing', 'Screw_Speed_Real', 'amb_elongation_pre_cure', 'ten_day_max', 'CS_Speed_Real', 'Nip_Speed_Real', 'amb_tensile_pre_cure', 'CST_Bottom_Real']"
-1,Top 5 Chi2,0.7531055900621118,0.7674418604651163,0.7815126050420168,0.7948717948717948,"['amb_elongation_pre_cure', 'amb_tensile_pre_cure', 'RunFootage', 'thickness', 'month']"
-2,Machine Features,0.7065217391304348,0.7023255813953488,0.7960893854748603,0.7054455445544554,"['Screw_Speed_Real', 'CS_Speed_Real', 'Nip_Speed_Real', 'CST_Bottom_Real', 'CST_TOP_Real', 'TotalRunFootage', 'RunFootage', 'CST_Centre_Real', 'Z7', 'width']"
-3,Weather Features,0.615424430641822,0.6341085271317829,0.7957559681697612,0.6535947712418301,"['ten_day_mean', 'ten_day_min', 'ten_day_swing', 'ten_day_max', 'month']"
-4,Quality Features,0.7375776397515528,0.7922480620155039,0.7863013698630137,0.8367346938775511,"['amb_elongation_pre_cure', 'amb_tensile_pre_cure', 'thickness']"

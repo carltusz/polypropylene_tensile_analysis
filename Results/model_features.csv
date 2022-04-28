@@ -1,0 +1,214 @@
+feature,model
+RunFootage,All Features
+LengthOffset,All Features
+Z1,All Features
+Z2,All Features
+Z3,All Features
+Z4,All Features
+Z5,All Features
+Z6,All Features
+Z7,All Features
+Z8,All Features
+Z9,All Features
+Z10,All Features
+Z11,All Features
+Z12,All Features
+Z13,All Features
+Z14,All Features
+Z15,All Features
+Z16,All Features
+Z17,All Features
+Z18,All Features
+Z19,All Features
+CST_TOP_Real,All Features
+CST_Centre_Real,All Features
+CST_Bottom_Real,All Features
+CS_Speed_Real,All Features
+Nip_Speed_Real,All Features
+Screw_Speed_Real,All Features
+Back_Pressure_Real,All Features
+Melt_Temp_Real,All Features
+Chiller_Temp_Real,All Features
+Motor_Amps_Real,All Features
+TotalRunFootage,All Features
+width,All Features
+thickness,All Features
+amb_tensile_pre_cure,All Features
+amb_elongation_pre_cure,All Features
+month,All Features
+ten_day_mean,All Features
+ten_day_max,All Features
+ten_day_min,All Features
+ten_day_swing,All Features
+Machine_1,All Features
+Machine_2,All Features
+Operator_0,All Features
+Operator_1218,All Features
+Operator_1251,All Features
+Operator_1324,All Features
+Operator_1476,All Features
+Operator_1546,All Features
+Operator_1580,All Features
+Operator_1731,All Features
+Operator_1766,All Features
+Operator_1791,All Features
+Operator_1793,All Features
+Operator_2136,All Features
+Operator_2167,All Features
+Operator_2178,All Features
+Operator_2198,All Features
+Operator_2201,All Features
+Operator_2218,All Features
+Operator_2223,All Features
+Operator_2238,All Features
+Operator_2262,All Features
+Operator_2275,All Features
+Operator_2469,All Features
+amb_tensile_pre_cure,Top 5 Chi2
+thickness,Top 5 Chi2
+RunFootage,Top 5 Chi2
+amb_elongation_pre_cure,Top 5 Chi2
+month,Top 5 Chi2
+Machine_1,Machine Features
+Machine_2,Machine Features
+RunFootage,Machine Features
+LengthOffset,Machine Features
+Z1,Machine Features
+Z2,Machine Features
+Z3,Machine Features
+Z4,Machine Features
+Z5,Machine Features
+Z6,Machine Features
+Z7,Machine Features
+Z8,Machine Features
+Z9,Machine Features
+Z10,Machine Features
+Z11,Machine Features
+Z12,Machine Features
+Z13,Machine Features
+Z14,Machine Features
+Z15,Machine Features
+Z16,Machine Features
+Z17,Machine Features
+Z18,Machine Features
+Z19,Machine Features
+CST_TOP_Real,Machine Features
+CST_Centre_Real,Machine Features
+CST_Bottom_Real,Machine Features
+CS_Speed_Real,Machine Features
+Nip_Speed_Real,Machine Features
+Screw_Speed_Real,Machine Features
+Back_Pressure_Real,Machine Features
+Melt_Temp_Real,Machine Features
+Chiller_Temp_Real,Machine Features
+Motor_Amps_Real,Machine Features
+TotalRunFootage,Machine Features
+width,Machine Features
+month,Weather Features
+ten_day_mean,Weather Features
+ten_day_max,Weather Features
+ten_day_min,Weather Features
+ten_day_swing,Weather Features
+amb_tensile_pre_cure,Quality Features
+amb_elongation_pre_cure,Quality Features
+thickness,Quality Features
+RunFootage,All FeaturesTop 10
+LengthOffset,All FeaturesTop 10
+Z1,All FeaturesTop 10
+Z2,All FeaturesTop 10
+Z3,All FeaturesTop 10
+Z4,All FeaturesTop 10
+Z5,All FeaturesTop 10
+Z6,All FeaturesTop 10
+Z7,All FeaturesTop 10
+Z8,All FeaturesTop 10
+Z9,All FeaturesTop 10
+Z10,All FeaturesTop 10
+Z11,All FeaturesTop 10
+Z12,All FeaturesTop 10
+Z13,All FeaturesTop 10
+Z14,All FeaturesTop 10
+Z15,All FeaturesTop 10
+Z16,All FeaturesTop 10
+Z17,All FeaturesTop 10
+Z18,All FeaturesTop 10
+Z19,All FeaturesTop 10
+CST_TOP_Real,All FeaturesTop 10
+CST_Centre_Real,All FeaturesTop 10
+CST_Bottom_Real,All FeaturesTop 10
+CS_Speed_Real,All FeaturesTop 10
+Nip_Speed_Real,All FeaturesTop 10
+Screw_Speed_Real,All FeaturesTop 10
+Back_Pressure_Real,All FeaturesTop 10
+Melt_Temp_Real,All FeaturesTop 10
+Chiller_Temp_Real,All FeaturesTop 10
+Motor_Amps_Real,All FeaturesTop 10
+TotalRunFootage,All FeaturesTop 10
+width,All FeaturesTop 10
+thickness,All FeaturesTop 10
+amb_tensile_pre_cure,All FeaturesTop 10
+amb_elongation_pre_cure,All FeaturesTop 10
+month,All FeaturesTop 10
+ten_day_mean,All FeaturesTop 10
+ten_day_max,All FeaturesTop 10
+ten_day_min,All FeaturesTop 10
+ten_day_swing,All FeaturesTop 10
+Machine_1,All FeaturesTop 10
+Machine_2,All FeaturesTop 10
+Operator_0,All FeaturesTop 10
+Operator_1218,All FeaturesTop 10
+Operator_1251,All FeaturesTop 10
+Operator_1324,All FeaturesTop 10
+Operator_1476,All FeaturesTop 10
+Operator_1546,All FeaturesTop 10
+Operator_1580,All FeaturesTop 10
+Operator_1731,All FeaturesTop 10
+Operator_1766,All FeaturesTop 10
+Operator_1791,All FeaturesTop 10
+Operator_1793,All FeaturesTop 10
+Operator_2136,All FeaturesTop 10
+Operator_2167,All FeaturesTop 10
+Operator_2178,All FeaturesTop 10
+Operator_2198,All FeaturesTop 10
+Operator_2201,All FeaturesTop 10
+Operator_2218,All FeaturesTop 10
+Operator_2223,All FeaturesTop 10
+Operator_2238,All FeaturesTop 10
+Operator_2262,All FeaturesTop 10
+Operator_2275,All FeaturesTop 10
+Operator_2469,All FeaturesTop 10
+Machine_1,Machine FeaturesTop 10
+Machine_2,Machine FeaturesTop 10
+RunFootage,Machine FeaturesTop 10
+LengthOffset,Machine FeaturesTop 10
+Z1,Machine FeaturesTop 10
+Z2,Machine FeaturesTop 10
+Z3,Machine FeaturesTop 10
+Z4,Machine FeaturesTop 10
+Z5,Machine FeaturesTop 10
+Z6,Machine FeaturesTop 10
+Z7,Machine FeaturesTop 10
+Z8,Machine FeaturesTop 10
+Z9,Machine FeaturesTop 10
+Z10,Machine FeaturesTop 10
+Z11,Machine FeaturesTop 10
+Z12,Machine FeaturesTop 10
+Z13,Machine FeaturesTop 10
+Z14,Machine FeaturesTop 10
+Z15,Machine FeaturesTop 10
+Z16,Machine FeaturesTop 10
+Z17,Machine FeaturesTop 10
+Z18,Machine FeaturesTop 10
+Z19,Machine FeaturesTop 10
+CST_TOP_Real,Machine FeaturesTop 10
+CST_Centre_Real,Machine FeaturesTop 10
+CST_Bottom_Real,Machine FeaturesTop 10
+CS_Speed_Real,Machine FeaturesTop 10
+Nip_Speed_Real,Machine FeaturesTop 10
+Screw_Speed_Real,Machine FeaturesTop 10
+Back_Pressure_Real,Machine FeaturesTop 10
+Melt_Temp_Real,Machine FeaturesTop 10
+Chiller_Temp_Real,Machine FeaturesTop 10
+Motor_Amps_Real,Machine FeaturesTop 10
+TotalRunFootage,Machine FeaturesTop 10
+width,Machine FeaturesTop 10

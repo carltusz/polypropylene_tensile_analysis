@@ -1,4 +1,0 @@
-,feature,importance
-1,"Index(['amb_tensile_pre_cure', 'thickness', 'RunFootage',
-       'amb_elongation_pre_cure', 'month'],
-      dtype='object')",[0.35311069 0.0983959  0.05805805 0.33173466 0.15870071]
